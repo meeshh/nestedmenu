@@ -4,7 +4,7 @@ This project uses React and React Router to create a side navigation menu and a 
 
 ## Getting started
 
-You have to have [node](https://nodejs.org/en/) installed, then run ```npm install``` or ```yarn install``` in order to download all the packages needed.
+You have to have [node](https://nodejs.org/en/) installed, then go to your shell, run ```npm install``` or ```yarn install``` in order to download all the packages needed.
 
 Continue reading to know what scripts to run in order to kickstart the project
 
