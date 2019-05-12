@@ -1,0 +1,19 @@
+@import '../../assets/styles/base';
+
+.sideNav {
+	width: 60px;
+	height: 100%;
+	background-color:var(--dark);
+	.navLinkWrapper {
+		width: 100%;
+		text-align: center;
+        font-size: 28px;
+        .navLink{
+            line-height: 60px;
+            color: var(--silver);
+            &:hover, &.active{
+                color: white;
+            }
+        }
+	}
+}
