@@ -1,3 +1,15 @@
+# Project Description
+
+This project uses React and React Router to create a side navigation menu and a relative submenu that changes depending on the selection from the side navigation bar.
+
+## Getting started
+
+You have to have [node](https://nodejs.org/en/) installed, then run ```npm install``` or ```yarn install``` in order to download all the packages needed.
+
+Continue reading to know what scripts to run in order to kickstart the project
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
